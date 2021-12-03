@@ -1,0 +1,4 @@
+main: net.oprealms.shop.ShopPlugin
+name: Shop
+version: 1.0
+depend: [helper]
